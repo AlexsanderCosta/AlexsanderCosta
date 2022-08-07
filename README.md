@@ -14,4 +14,5 @@
 
 ##
 
-![Snake animation](https://github.com/AlexsanderCosta/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation]
+(https://github.com/AlexsanderCosta/.github/workflows/AlexsanderCosta.yml/github-contribution-grid-snake.svg)
